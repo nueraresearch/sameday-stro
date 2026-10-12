@@ -1,4 +1,4 @@
-> **Current authority note:** host-facing pricing examples in this document should show mileage separately unless a live location-specific quote is being generated, per `00_master-spec-v1.md`.
+> **Current authority note:** host-facing pricing examples in this document should show mileage separately unless a live location-specific quote is being generated, per `00_master-spec-v1_authoritative.md`.
 >
 > The example totals below are preserved as historical draft examples and may omit mileage.
 

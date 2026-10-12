@@ -1,4 +1,4 @@
-> **Current authority note:** cleaner modifier/add-on payout rules in this PRD are partially superseded by `03_operations/20_cleaner-payout-shares_final.md` and `00_master-spec-v1.md`.
+> **Current authority note:** cleaner modifier/add-on payout rules in this PRD are partially superseded by `03_operations/20_cleaner-payout-shares_final.md` and `00_master-spec-v1_authoritative.md`.
 >
 > Where this document states 100% cleaner shares for modifiers or add-ons, use the fixed payout-share table instead.
 

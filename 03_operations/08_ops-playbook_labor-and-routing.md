@@ -1,4 +1,4 @@
-> **Current authority note:** cleaner modifier/add-on payout rules in this document are partially superseded by `03_operations/20_cleaner-payout-shares_final.md` and `00_master-spec-v1.md`.
+> **Current authority note:** cleaner modifier/add-on payout rules in this document are partially superseded by `03_operations/20_cleaner-payout-shares_final.md` and `00_master-spec-v1_authoritative.md`.
 >
 > Where this document says cleaners receive 100% of modifier revenue, use the fixed payout-share table instead.
 

@@ -1,7 +1,7 @@
 
 > **Current authority note:** this diagram is a summary architecture map, not the authoritative rules document.
 >
-> Use `00_master-spec-v1.md` for current authoritative operating rules and `05_governance/19_governance-policy_v1.md` for binding governance.
+> Use `00_master-spec-v1_authoritative.md` for current authoritative operating rules and `05_governance/19_binding-governance-policy_v1.md` for binding governance.
 
 <!-- source: C:/Users/monte/AppData/Roaming/Hermes/composer-pastes/pasted_content_2026-10-12_19-56-03-918_276b86.txt | origin: attachment -->
 

@@ -1,4 +1,4 @@
-> **Status:** superseded by `05_governance/14_unified-reliability-framework.md`, `05_governance/16_host-tiering_v2.md`, and `00_master-spec-v1.md` for the authoritative rolling formula and host-eligibility logic.
+> **Status:** superseded by `05_governance/14_unified-reliability-framework.md`, `05_governance/16_host-tiering_v2.md`, and `00_master-spec-v1_authoritative.md` for the authoritative rolling formula and host-eligibility logic.
 >
 > This document is preserved as historical drafting context only. The authoritative rolling formula is `0.85 × previous + 0.15 × last_job`, not the `0.7 / 0.3` formula shown below.
 

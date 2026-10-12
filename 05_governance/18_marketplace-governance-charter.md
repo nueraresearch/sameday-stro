@@ -1,7 +1,7 @@
 
 > **Current authority note:** this document remains an executive governance summary only.
 >
-> The binding operating policy is `05_governance/19_governance-policy_v1.md`. If this summary conflicts with the binding policy, the policy controls.
+> The binding operating policy is `05_governance/19_binding-governance-policy_v1.md`. If this summary conflicts with the binding policy, the policy controls.
 
 >
 

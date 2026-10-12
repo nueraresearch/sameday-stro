@@ -14,7 +14,7 @@ Dedicated files created from every major document and revision provided in this 
 
 ## Documents
 
-- `00_master-spec-v1.md` — authoritative master specification
+- `00_master-spec-v1_authoritative.md` — authoritative master specification
 - `01_foundation/01_business-plan-and-software-spec.md` — Business Plan + Software Spec (attachment)
 - `02_strategy_finance/02_investor-memo_launch-market_monte-vista.md` — Investor Memo — Launch Market Monte Vista ±50 Miles (attachment)
 - `03_operations/03_operations-playbook_launch-region_monte-vista.md` — Operations Playbook — Launch Region Monte Vista ±50 Miles (attachment)
@@ -35,7 +35,7 @@ Dedicated files created from every major document and revision provided in this 
 - `05_governance/18_marketplace-governance-charter.md` — Marketplace Governance Charter (attachment; executive summary only)
 - `06_onboarding/19_cleaner-and-host-onboarding_v1.md` — Cleaner & Host Onboarding v1 (attachment; v1 draft)
 - `03_operations/20_cleaner-payout-shares_final.md` — Cleaner Payout Shares Final
-- `05_governance/21_marketplace-governance-policy_v1.md` — Marketplace Governance Policy v1 (authoritative)
+- `05_governance/19_binding-governance-policy_v1.md` — Binding Governance Policy v1 (authoritative)
 
 ## Meta
 
@@ -46,4 +46,4 @@ Dedicated files created from every major document and revision provided in this 
 - `99_meta/conflict-register.md` — contradiction and resolution register
 
 - `03_operations/20_cleaner-payout-shares_final.md` — Cleaner payout shares final
-- `05_governance/19_governance-policy_v1.md` — authoritative binding governance policy
+- `05_governance/19_binding-governance-policy_v1.md` — authoritative binding governance policy

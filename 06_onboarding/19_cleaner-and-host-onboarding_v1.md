@@ -1,6 +1,6 @@
 > **Status:** v1 draft, not production-ready.
 >
-> This document remains a directionally useful onboarding architecture, but legal, payment, verification, and review-workflow controls are still required before production use. See `00_master-spec-v1.md`.
+> This document remains a directionally useful onboarding architecture, but legal, payment, verification, and review-workflow controls are still required before production use. See `00_master-spec-v1_authoritative.md`.
 
 <!-- source: C:/Users/monte/AppData/Roaming/Hermes/composer-pastes/pasted_content_2026-10-12_20-01-26-626_347f4b.txt | origin: attachment -->
 
